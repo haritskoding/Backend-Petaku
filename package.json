@@ -10,7 +10,8 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node server.js",
+    "aris": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
